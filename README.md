@@ -4,5 +4,6 @@ This is an iOS app that allows users to choose paintings from their photo librar
 
 
 
-https://user-images.githubusercontent.com/15481881/236821005-4e679d58-3487-4963-992f-34c719b443e3.mp4
+
+https://user-images.githubusercontent.com/15481881/236821166-df39f601-fedf-41d1-8782-816f19ccab33.mp4
 
